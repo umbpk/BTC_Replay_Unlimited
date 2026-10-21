@@ -1,4 +1,4 @@
-# Replay
+# BTC Replay Unlimited
 **BTC Replay Chart for Backtesting 📊**
 
 A BTC historical replay tool for traders who want to study past price action, review market movements, and backtest their trading strategies using historical candles.
